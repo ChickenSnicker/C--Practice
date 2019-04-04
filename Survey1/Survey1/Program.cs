@@ -12,62 +12,114 @@ namespace Survey1
             Console.WriteLine("What is your age?");
             var Age = Console.ReadLine();
 
-            Console.WriteLine("What month were you born in?");
+            Console.WriteLine("What month were you born?");
             var MonthBorn = Console.ReadLine();
+
+            Console.WriteLine("What day were you born?");
+            var DayBorn = int.Parse(Console.ReadLine());
+
+
             Console.WriteLine();
             Console.WriteLine("Your Information:");
             Console.WriteLine("Your name is: {0}", Name);
             Console.WriteLine("Your name is: {0}", Age);
             Console.WriteLine("Your name is: {0}\n", MonthBorn);
 
+
             Console.WriteLine("Your Zodiac Sign Is: ");
-            switch(MonthBorn)
+           
+            switch (MonthBorn)
             {
                 case "January":
-                    Console.WriteLine("Aquarius \n ");
+                case "january":
+                    if (DayBorn <= 19)
+                    Console.WriteLine("Capircorn \n");
+                    else if (DayBorn > 19)
+                        Console.WriteLine("Aquarius \n ");
                     break;
                 case "Febuary":
-                    Console.WriteLine("Pisces \n ");
+                case "febuary":
+                    if (DayBorn <= 18)
+                        Console.WriteLine("Aquarius \n");
+                    else if (DayBorn > 19)
+                        Console.WriteLine("Pisces \n ");
                     break;
                 case "March":
-                    Console.WriteLine("Aries  \n");
+                case "march":
+                    if (DayBorn <= 20)
+                        Console.WriteLine("Pisces \n");
+                    else if (DayBorn > 20)
+                        Console.WriteLine("Aries \n ");
                     break;
                 case "April":
-                    Console.WriteLine("Taurus \n");
+                case "april":
+                    if (DayBorn <= 19)
+                        Console.WriteLine("Aries \n");
+                    else if (DayBorn > 20)
+                        Console.WriteLine("Taurus \n ");
                     break;
                 case "May":
-                    Console.WriteLine("Gemini \n");
+                case "may":
+                    if (DayBorn <= 20)
+                        Console.WriteLine("Taurus \n");
+                    else if (DayBorn > 20)
+                        Console.WriteLine("Gemini \n ");
                     break;
                 case "June":
-                    Console.WriteLine("Cancer \n");
+                case "june":
+                    if (DayBorn <= 20)
+                        Console.WriteLine("Gemini \n");
+                    else if (DayBorn > 20)
+                        Console.WriteLine("Cancer \n ");
                     break;
                 case "July":
-                    Console.WriteLine("Leo \n");
+                case "july":
+                    if (DayBorn <= 22)
+                        Console.WriteLine("Cancer \n");
+                    else if (DayBorn > 22)
+                        Console.WriteLine("Leo \n ");
                     break;
                 case "August":
-                    Console.WriteLine("Virgo \n");
+                case "august":
+                    if (DayBorn <= 22)
+                        Console.WriteLine("Leo \n");
+                    else if (DayBorn > 22)
+                        Console.WriteLine("Virgo \n ");
                     break;
                 case "September":
-                    Console.WriteLine("Libra /n");
+                case "september":
+                    if (DayBorn <= 22)
+                        Console.WriteLine("Virgo \n");
+                    else if (DayBorn > 22)
+                        Console.WriteLine("Libra \n ");
                     break;
                 case "October":
-                    Console.WriteLine("Scorpio \n");
+                case "october":
+                    if (DayBorn <= 22)
+                        Console.WriteLine("Libra \n");
+                    else if (DayBorn > 22)
+                        Console.WriteLine("Scorpio \n ");
                     break;
                 case "November":
-                    Console.WriteLine("Sagittarius \n");
+                case "november":
+                    if (DayBorn <= 21)
+                        Console.WriteLine("Scorpio \n");
+                    else if (DayBorn > 21)
+                        Console.WriteLine("Sagittarius \n ");
                     break;
                 case "December":
-                    Console.WriteLine("Capicorn \n");
+                case "december":
+                    if (DayBorn <= 21)
+                        Console.WriteLine("Sagittarius \n ");
+                    else if (DayBorn > 21)
+                        Console.WriteLine("Capicorn \n");
                     break;
-
-
-
                 default:
-                    Console.WriteLine("Invalid Input \n");
+                    Console.WriteLine("Invalid Day or Month Input \nPlease Stay With In Date Range For Each Month \nThank you \n");
                     break;
 
             }
-           Console.WriteLine();
+            Console.WriteLine();
 
 
 
