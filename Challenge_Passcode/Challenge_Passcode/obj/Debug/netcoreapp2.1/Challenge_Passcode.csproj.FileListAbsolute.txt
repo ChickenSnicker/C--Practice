@@ -1,0 +1,10 @@
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\obj\Debug\netcoreapp2.1\Challenge_Passcode.csproj.CoreCompileInputs.cache
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\obj\Debug\netcoreapp2.1\Challenge_Passcode.AssemblyInfoInputs.cache
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\obj\Debug\netcoreapp2.1\Challenge_Passcode.AssemblyInfo.cs
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\bin\Debug\netcoreapp2.1\Challenge_Passcode.deps.json
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\bin\Debug\netcoreapp2.1\Challenge_Passcode.runtimeconfig.json
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\bin\Debug\netcoreapp2.1\Challenge_Passcode.runtimeconfig.dev.json
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\bin\Debug\netcoreapp2.1\Challenge_Passcode.dll
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\bin\Debug\netcoreapp2.1\Challenge_Passcode.pdb
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\obj\Debug\netcoreapp2.1\Challenge_Passcode.dll
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Challenge_Passcode\Challenge_Passcode\obj\Debug\netcoreapp2.1\Challenge_Passcode.pdb

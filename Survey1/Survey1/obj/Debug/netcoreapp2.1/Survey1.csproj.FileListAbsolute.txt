@@ -9,3 +9,14 @@ C:\Users\nikpm\source\repos\Survey1\Survey1\bin\Debug\netcoreapp2.1\Survey1.pdb
 C:\Users\nikpm\source\repos\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.dll
 C:\Users\nikpm\source\repos\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.pdb
 C:\Users\nikpm\source\repos\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.csprojAssemblyReference.cache
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.csprojAssemblyReference.cache
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.csproj.CoreCompileInputs.cache
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.AssemblyInfoInputs.cache
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.AssemblyInfo.cs
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.dll
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\obj\Debug\netcoreapp2.1\Survey1.pdb
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\bin\Debug\netcoreapp2.1\Survey1.deps.json
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\bin\Debug\netcoreapp2.1\Survey1.runtimeconfig.json
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\bin\Debug\netcoreapp2.1\Survey1.runtimeconfig.dev.json
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\bin\Debug\netcoreapp2.1\Survey1.dll
+C:\Users\nikpm\source\repos\GitHub\C--Practice\Survey1\Survey1\bin\Debug\netcoreapp2.1\Survey1.pdb
